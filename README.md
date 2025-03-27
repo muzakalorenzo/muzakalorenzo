@@ -1,16 +1,29 @@
-## Hi there 👋
+### Welcome to My GitHub Profile! 👋
 
-<!--
-**muzakalorenzo/muzakalorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lorenzo Muzaka** – Junior
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lorenzomuzaka)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/lorenzomuzaka)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎯 Passionate about software engineering.
+- 🕹️ Experienced in game engines, low-level graphics, and system programming.
+- 🚀 Always exploring new technologies.
+
+## 🛠️ Languages and Tools:
+
+<img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+
+<br>
+<br>
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muzakalorenzo&show_icons=true&theme=dark" alt="Lorenzo Muzaka's GitHub Stats" />
+</p>
