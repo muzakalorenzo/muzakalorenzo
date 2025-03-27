@@ -1,6 +1,6 @@
 ### Welcome to My GitHub Profile! 👋
 
-**Lorenzo Muzaka** – Junior
+**Lorenzo Muzaka** – Junior Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lorenzo-muzaka-a03b64331/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/muzakalorenzo)
